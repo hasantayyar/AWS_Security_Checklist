@@ -34,7 +34,7 @@
 
 - [ ] Production & staging SSH keys has to be secured with a passphrase.
 
-- [ ] Every AWS user has different different and well defined policies
+- [ ] Every AWS user has different credentials and well defined policies
 
 - [ ] AWS Keys has to be rotated at least in every 6 months. Add a calendar entry that repeats every 6 months.
 
