@@ -1,6 +1,6 @@
 # Security Checklist
 
-*   ## Web application instances
+## Web application instances
 
 - [ ] Are in a private subnet to block the incoming internet connection
 
