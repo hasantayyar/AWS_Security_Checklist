@@ -63,3 +63,5 @@
 ## Database
 
 - [ ] Check if data encryption is enabled on MongoDb
+## Threat Modelling
+- [ ] Configure Guard​Duty with proper notification channels.
